@@ -1,0 +1,6 @@
+# Dependency directories
+node_modules/
+
+
+# Ignore environment-specific configuration files
+/src/.env
